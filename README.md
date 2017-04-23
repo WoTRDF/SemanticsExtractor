@@ -4,7 +4,7 @@ Here we present an example of interoperting three IoT Platforms (i.e., openHAB, 
 Semantics Extractor starts by taking input of three REST entrypoints from three IoT platforms and generate a first with REST Crawler:
 
 ![alt tag] (https://github.com/WoTRDF/SemanticsExtractor/blob/master/docs/1.%20REST%20URIs.jpg)
-
+![My image](https://github.com/WoTRDF/SemanticsExtractor/blob/master/docs/1.%20REST%20URIs.jpg)
 
 Synxtax Extractor creates a stub RDF graph by extracting syntax information from discvered resources' descriptions:
 
