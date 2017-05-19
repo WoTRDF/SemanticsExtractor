@@ -22,7 +22,7 @@ Semantic Reasoner infers the classes and properties in RDF graphs based on ontol
 
 Semantic Reasoner refines RDF elements following semantic rules, and the refined elements can be further used to deduce other graph elements:
 
-![My image]()
+![My image](https://github.com/WoTRDF/SemanticsExtractor/blob/master/docs/5.%20Refining%20of%20Semantic%20Reasoner.jpg)
 
 
 Link Extractor creates additional implicit links among IoT resources and platforms by capturing data change coincidences. In this example, Classifier further refines the links caputured by Link Extractor based on classification:
